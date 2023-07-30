@@ -11,6 +11,6 @@ To classify the audio commands
 - Train the model with
   * SVM - Polynomial and SVM kernel
   * BPNN
-  * CNN
+  * CNN - VGG16
  
 CNN with spectrogram is the best model for classifying this audio as images. The accuracy achieved is greater than 85%
